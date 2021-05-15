@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1407220144, guid: abf3c058d94959640bec02372a894b38, type: 3}
+  m_Name: SaveManager
+  m_EditorClassIdentifier: 
+  fileCache:
+    stamp: by 60a0358c48300b00092b0a6a at Saturday, May 15, 2021 3:31:18 PM
+    appId: 60a0498ab2bce500099ff6e2
+    appName: InfluenceCity
+    versionId: 60a0498ab2bce500099ff6e3
+    versionStatus: 0
+    versionSeq: 0
+    sdkRev: 2017
+    scenesList:
+    - sceneName: SampleScene
+      id: 60a04b891736520009443cd6
+      currentScenePath: Assets/Scenes/SampleScene.unity
+      pathsHistory:
+      - Assets/Scenes/SampleScene.unity
+      placementsList:
+      - isSavedPlacement: 1
+        invalidReason: 
+        modelKey: 5ee7e8d47cea8d42a8b60ac0
+        idInFile: 772567648
+        placementType: 0
+        placementId: 60a04b8cbc357400091dccaf
+        placementName: c3eoaP1F7F0Ym2XHEx33
+        placementDisplayName: Banner_6x5
+        sceneId: 60a04b891736520009443cd6
+        textureResolution: {x: 300, y: 250}
+      - isSavedPlacement: 0
+        invalidReason: new
+        modelKey: 5ee7e9fb7cea8d42a8b60ac7
+        idInFile: 1971831149
+        placementType: 1
+        placementId: 60a04d7011411d0009778edb
+        placementName: m8XWdLae9gD9wFvcf1Ov
+        placementDisplayName: Video_16x9
+        sceneId: 60a04b891736520009443cd6
+        textureResolution: {x: 640, y: 360}
+  projectScanCache:
+    stamp: 
+    appId: 60a0498ab2bce500099ff6e2
+    appName: InfluenceCity
+    versionId: 
+    versionStatus: 0
+    versionSeq: 0
+    sdkRev: 2017
+    scenesList:
+    - sceneName: SampleScene
+      id: 60a04b891736520009443cd6
+      currentScenePath: Assets/Scenes/SampleScene.unity
+      pathsHistory: []
+      placementsList:
+      - isSavedPlacement: 1
+        invalidReason: 
+        modelKey: 5ee7e8d47cea8d42a8b60ac0
+        idInFile: 772567648
+        placementType: 0
+        placementId: 60a04b8cbc357400091dccaf
+        placementName: c3eoaP1F7F0Ym2XHEx33
+        placementDisplayName: Banner_6x5
+        sceneId: 60a04b891736520009443cd6
+        textureResolution: {x: 300, y: 250}
+      - isSavedPlacement: 0
+        invalidReason: new
+        modelKey: 5ee7e9fb7cea8d42a8b60ac7
+        idInFile: 1971831149
+        placementType: 1
+        placementId: 60a04d7011411d0009778edb
+        placementName: m8XWdLae9gD9wFvcf1Ov
+        placementDisplayName: Video_16x9
+        sceneId: 60a04b891736520009443cd6
+        textureResolution: {x: 640, y: 360}
+  remoteCache:
+    stamp: 
+    appId: 60a0498ab2bce500099ff6e2
+    appName: InfluenceCity
+    versionId: 60a0498ab2bce500099ff6e3
+    versionStatus: 0
+    versionSeq: 0
+    sdkRev: 
+    scenesList:
+    - sceneName: SampleScene
+      id: 60a04b891736520009443cd6
+      currentScenePath: 
+      pathsHistory: []
+      placementsList:
+      - isSavedPlacement: 0
+        invalidReason: 
+        modelKey: 5ee7e8d47cea8d42a8b60ac0
+        idInFile: 0
+        placementType: 0
+        placementId: 60a04b8cbc357400091dccaf
+        placementName: c3eoaP1F7F0Ym2XHEx33
+        placementDisplayName: Banner_6x5
+        sceneId: 60a04b891736520009443cd6
+        textureResolution: {x: 0, y: 0}
+  remotePostSaveCache:
+    stamp: 
+    appId: 60a0498ab2bce500099ff6e2
+    appName: InfluenceCity
+    versionId: 60a0498ab2bce500099ff6e3
+    versionStatus: 0
+    versionSeq: 0
+    sdkRev: 
+    scenesList:
+    - sceneName: SampleScene
+      id: 60a04b891736520009443cd6
+      currentScenePath: 
+      pathsHistory: []
+      placementsList:
+      - isSavedPlacement: 0
+        invalidReason: 
+        modelKey: 5ee7e8d47cea8d42a8b60ac0
+        idInFile: 0
+        placementType: 0
+        placementId: 60a04b8cbc357400091dccaf
+        placementName: c3eoaP1F7F0Ym2XHEx33
+        placementDisplayName: Banner_6x5
+        sceneId: 60a04b891736520009443cd6
+        textureResolution: {x: 0, y: 0}
+      - isSavedPlacement: 0
+        invalidReason: 
+        modelKey: 5ee7e9fb7cea8d42a8b60ac7
+        idInFile: 0
+        placementType: 1
+        placementId: 60a04d7011411d0009778edb
+        placementName: m8XWdLae9gD9wFvcf1Ov
+        placementDisplayName: Video_16x9
+        sceneId: 60a04b891736520009443cd6
+        textureResolution: {x: 0, y: 0}
+  placementsToHide: []

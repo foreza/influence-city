@@ -1,0 +1,51 @@
+{
+    "stamp": "by 60a0358c48300b00092b0a6a at Saturday, May 15, 2021 3:38:41 PM",
+    "appId": "60a0498ab2bce500099ff6e2",
+    "appName": "InfluenceCity",
+    "versionId": "60a0498ab2bce500099ff6e3",
+    "versionStatus": 0,
+    "versionSeq": 0,
+    "sdkRev": "2017",
+    "scenesList": [
+        {
+            "sceneName": "SampleScene",
+            "id": "60a04b891736520009443cd6",
+            "currentScenePath": "Assets/Scenes/SampleScene.unity",
+            "pathsHistory": [
+                "Assets/Scenes/SampleScene.unity"
+            ],
+            "placementsList": [
+                {
+                    "isSavedPlacement": true,
+                    "invalidReason": "",
+                    "modelKey": "5ee7e8d47cea8d42a8b60ac0",
+                    "idInFile": 772567648,
+                    "placementType": 0,
+                    "placementId": "60a04b8cbc357400091dccaf",
+                    "placementName": "c3eoaP1F7F0Ym2XHEx33",
+                    "placementDisplayName": "Banner_6x5",
+                    "sceneId": "60a04b891736520009443cd6",
+                    "textureResolution": {
+                        "x": 300.0,
+                        "y": 250.0
+                    }
+                },
+                {
+                    "isSavedPlacement": false,
+                    "invalidReason": "new",
+                    "modelKey": "5ee7e9fb7cea8d42a8b60ac7",
+                    "idInFile": 1971831149,
+                    "placementType": 1,
+                    "placementId": "60a04d7011411d0009778edb",
+                    "placementName": "m8XWdLae9gD9wFvcf1Ov",
+                    "placementDisplayName": "Video_16x9",
+                    "sceneId": "60a04b891736520009443cd6",
+                    "textureResolution": {
+                        "x": 640.0,
+                        "y": 360.0
+                    }
+                }
+            ]
+        }
+    ]
+}
